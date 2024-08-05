@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Common Use Cases
+## Common Use Cases
 
 - **Dataset Loading (`loadData.py`)**:
 
