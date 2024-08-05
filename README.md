@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-## Common Use Cases
+### Common Use Cases
 
 - **Dataset Loading (`loadData.py`)**:
 
@@ -104,9 +104,7 @@ Example command to run the full system:
 python main.py --config=config.yaml
 
 
----
-
-### Box 3: Contributing, License, and Contact
+### Contributing, License, and Contact
 
 ```markdown
 ## Contributing
@@ -142,3 +140,4 @@ A1: The system is designed to process various types of EMG signals, and it inclu
 **Q2: How can I integrate this system with a robotic arm?**
 
 A2: The system includes an application module that can be configured to send control commands to a robotic arm based on the classified EMG signals.
+
